@@ -6561,7 +6561,7 @@ function TemplateTitle() {
     isLink: true,
     showTooltip: true,
     label: Object(external_wp_i18n_["sprintf"])(
-    /* translators: %s: Title of the referring post, e.g: "Hello World!" */
+    /* translators: %s: Title of the referring post, e.g: "hello dunia!" */
     Object(external_wp_i18n_["__"])('Edit %s'), title),
     onClick: () => {
       clearSelectedBlock();
